@@ -129,19 +129,11 @@
   },
   {
     "appId": "com.axlhostdev.blogspot",
-    "title": "Word Connect Crossword",
-    "icon": "https://play-lh.googleusercontent.com/N337dbf5Tco_3Cws-CMeSxq8JNrxRZdSgqM7NFnrLn8cpSQiE32JxVUSzkP-I5hRLyH55XpPoHgZ6uCU32z-djw",
-    "summary": "Addictive word puzzle: connect letters &amp; solve crossword offline!",
+    "title": "LIVUM: Crossword Puzzle Games",
+    "icon": "https://play-lh.googleusercontent.com/alXpFOrPIJeQo8dUSWSQzjOTD4XITXkxj0yqqQUJjxlW2oMilTcNekRwLjUzCvaxi8jVYCLEyOM0JEIjUe1HYw",
+    "summary": "Play classic crosswords, word connect &amp; word search puzzles offline anytime!",
     "url": "https://play.google.com/store/apps/details?id=com.axlhostdev.blogspot&hl=en&gl=us",
     "type": "GAME"
-  },
-  {
-    "appId": "id.livumedia.livuphotoeditor",
-    "title": "Livu AI Photo & Image Editor",
-    "icon": "https://play-lh.googleusercontent.com/FMGSmh0H-RWV8xDElLAZqM3kNnVoLCTOPRi-qYMMZQrBOCLYhBmcTU9Rw5UG6kkq07uBSdzA2Ma-aNVIpYsD6A",
-    "summary": "AI Photo Editor, Background Remover, Collage &amp; Batch Tools",
-    "url": "https://play.google.com/store/apps/details?id=id.livumedia.livuphotoeditor&hl=en&gl=us",
-    "type": "APP"
   },
   {
     "appId": "id.livumedia.pdftools",
