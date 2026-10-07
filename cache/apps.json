@@ -120,20 +120,20 @@
     "type": "GAME"
   },
   {
-    "appId": "com.axlhostdev.silatkata",
-    "title": "TTS Kata - Daily Crossword",
-    "icon": "https://play-lh.googleusercontent.com/N-9EJRwM747rcVuvDZx879Goy8aY5IWk5N7Bxi2BtN-vuR1MT0T1ca2zhpb93TpmVyGHNzcMsI-rkywK4mos8w",
-    "summary": "Try this Crosswords game. It's WRONG, if you think Bahasa is quite easy",
-    "url": "https://play.google.com/store/apps/details?id=com.axlhostdev.silatkata&hl=en&gl=us",
-    "type": "GAME"
-  },
-  {
     "appId": "com.axlhostdev.blogspot",
-    "title": "LIVUM: Crossword Puzzle Games",
-    "icon": "https://play-lh.googleusercontent.com/alXpFOrPIJeQo8dUSWSQzjOTD4XITXkxj0yqqQUJjxlW2oMilTcNekRwLjUzCvaxi8jVYCLEyOM0JEIjUe1HYw",
+    "title": "Livum: Crossword Puzzle Games",
+    "icon": "https://play-lh.googleusercontent.com/MkfD33MZ5FUy7zhc6poEHYSIsAYVtWo2824mZiKoIf4ZsaUozgGy_KILRROqRuyBhpePQxXO7z7cb5KZobnQvg",
     "summary": "Play classic crosswords, word connect &amp; word search puzzles offline anytime!",
     "url": "https://play.google.com/store/apps/details?id=com.axlhostdev.blogspot&hl=en&gl=us",
     "type": "GAME"
+  },
+  {
+    "appId": "id.livumedia.photoeditor",
+    "title": "Livum: AI Photo & Image Editor",
+    "icon": "https://play-lh.googleusercontent.com/8RqRExEWwZbZHRXonKdVICL2uAxNrieo9n3yNzi-WrY-OUQhD6zwszDnGXQ21AHa9pK3OfoijSh3CzSpTzBLGw",
+    "summary": "AI photo editor &amp; batch image tools for background removal, convert &amp; resize",
+    "url": "https://play.google.com/store/apps/details?id=id.livumedia.photoeditor&hl=en&gl=us",
+    "type": "APP"
   },
   {
     "appId": "id.livumedia.pdftools",
