@@ -120,6 +120,14 @@
     "type": "GAME"
   },
   {
+    "appId": "com.axlhostdev.silatkata",
+    "title": "TTS Kata - Daily Crossword",
+    "icon": "https://play-lh.googleusercontent.com/N-9EJRwM747rcVuvDZx879Goy8aY5IWk5N7Bxi2BtN-vuR1MT0T1ca2zhpb93TpmVyGHNzcMsI-rkywK4mos8w",
+    "summary": "Try this Crosswords game. It's WRONG, if you think Bahasa is quite easy",
+    "url": "https://play.google.com/store/apps/details?id=com.axlhostdev.silatkata&hl=en&gl=us",
+    "type": "GAME"
+  },
+  {
     "appId": "com.axlhostdev.blogspot",
     "title": "Livum: Crossword Puzzle Games",
     "icon": "https://play-lh.googleusercontent.com/MkfD33MZ5FUy7zhc6poEHYSIsAYVtWo2824mZiKoIf4ZsaUozgGy_KILRROqRuyBhpePQxXO7z7cb5KZobnQvg",
@@ -149,14 +157,6 @@
     "icon": "https://play-lh.googleusercontent.com/-xhpn5TKwDzatjgECWxoc7Lh_Um_mZUj6KNygrqCSERuHqVHLairGXZBHTfE0vnBZbZUWN3QvKpfIPwff0NwCg",
     "summary": "Unlimited secure VPN with Speed Test, Ping Tools &amp; DNS Leak Test",
     "url": "https://play.google.com/store/apps/details?id=id.livumedia.vpnunlimited&hl=en&gl=us",
-    "type": "APP"
-  },
-  {
-    "appId": "id.livumedia.youmakeaishortstools",
-    "title": "YouMake - Ai Shorts Tools",
-    "icon": "https://play-lh.googleusercontent.com/ZDlyg1ARFcMQKkwuKBUCsHqLgLDfXvgv52f-5c8mn3HarGI4tGnlTai0uyZCWEsg79QWpsp6xq3Jz_x_BYxsfw",
-    "summary": "Create viral titles, hashtags &amp; scripts for Shorts, TikTok &amp; Reels",
-    "url": "https://play.google.com/store/apps/details?id=id.livumedia.youmakeaishortstools&hl=en&gl=us",
     "type": "APP"
   },
   {
